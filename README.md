@@ -11,7 +11,7 @@ __DNS Router Checker__ is a simple script that check a provided DNS server the y
 ### Preview ###
 ![Animation](https://raw.githubusercontent.com/moraisaugusto/dnsrc/master/imgs/animation.gif)
 
-### Detail
+__Detail__
 ![ScreenShot](https://raw.githubusercontent.com/moraisaugusto/dnsrc/master/imgs/screenshot-1.png)
 
 ### Prerequisites to compile (tested on Arch)
