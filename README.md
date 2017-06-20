@@ -9,7 +9,7 @@ __DNS Router Checker__ is a simple script that check a provided DNS server the y
 `sudo make install`
 
 ### Preview ###
-![Animatiom](https://raw.githubusercontent.com/moraisaugusto/dnsrc/master/imgs/animation.gif)
+![Animation](https://raw.githubusercontent.com/moraisaugusto/dnsrc/master/imgs/animation.gif)
 
 ### Prerequisites to compile (tested on Arch)
 
